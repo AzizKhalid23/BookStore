@@ -1,0 +1,51 @@
+Book Number ,Book Name,Genre,Author,Price
+1,The Exorcist,Horror,William Peter,25
+2,The Ruins,Horror,Scott Smith,40
+3,IT,Horror,Stephen King,40
+4,The Hunger,Horror,Alma Katsu,30
+5,The Other ,Horror,Thomas Tyron,25
+6,Dracula,Horror,Bram Stoker,32
+7,The Shining,Horror,Stephen King,17
+8,Ring,Horror,Koji Suzuki,45
+9,The Bed Seed,Horror,Maxwell Anderson,15
+10,World War Z,Horror,Max Brooks,22
+11,Frida,Biography,Hayden Herrera,30
+12,Into The Wild ,Biography,Jon Krakauer,15
+13,Napoleon,Biography,Anderw Robert,31
+14,Rosemary,Biography,Kate Clifford Larson,27
+15,Shelly ,Biography,Richard Holmes,10
+16,Steve Jobs,Biography,Walter Issacson,50
+17,Vera,Biography,Stacy Schiff,37
+18,The Mayr Of Castro  Streer,Biography,Randy Shilts,27
+19,The Crusades,Biography,Miriam Pawel,55
+20,Clemente,Biography,David Maraniss,42
+21,Triumph,Biography,Jeremy Schaap,15
+22,Dune,Scince Fiction,Frank Herbert,60
+23,The Martian ,Scince Fiction,Andy Weir,45
+24,Contact,Scince Fiction,Carl Segan,20
+25,Station Eleven ,Scince Fiction,Emily Mandel ,30
+26,The Blazing World ,Scince Fiction,Margaret Cavendish,21
+27,Solaries,Scince Fiction,Stanislaw,43
+28,Ice,Scince Fiction,AnnaKavan ,19
+29,Hyperion ,Scince Fiction,Dan Simmons,22
+30,Jurassic Park ,Scince Fiction,Michael Crichton,40
+31,Snow Crash ,Scince Fiction,Neal Stephnsons,15
+32,Scoundrel,True Crime,Sarah Weinman,21
+33,Empire Of Pain,True Crime,Patrick Keefe,18
+34,Furious Hours,True Crime,Casey  Cep,15
+35,Bad Blood,True Crime,John Carreyrou,11
+36,Last Call,True Crime,Elon Green ,24
+37,Party Monster ,True Crime,James St James ,16
+38,American Fire,True Crime,Monica Hesse,19
+39,Shot in The Heart,True Crime,Mikal Gilmore ,17
+40,Columbine,True Crime,Dave Cullen,14
+41,The Poisoners,True Crime,Deborah Blum,12
+42,The Great Gatsby,Novel,F. Scott FitzGerald,20
+43,1984,Novel,George Orwell,34
+44,To The Lighthouse,Novel,Virginia Woolf ,12
+45,Native Son,Novel,Richard Wright,15
+46,Animal Farm,Novel,George Orwell,24
+47,The Golden Bowl,Novel,Henry James,36
+48,Nostromo,Novel,Joseph Conrad,52
+49,Main Street,Novel,Sinclair Lewis,12
+50,The Magus,Novel,John Fowles,15
